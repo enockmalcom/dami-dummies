@@ -1,0 +1,6 @@
+{
+  "name": "Dami Dummies",
+  "description": "An ultra-premium interactive showroom and AI-powered customizer for high-end fashion display mannequins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
